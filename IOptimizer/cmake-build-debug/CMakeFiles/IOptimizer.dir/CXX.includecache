@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/robin/CLionProjects/IOptimizer/Classes/Database.cpp
+Database.h
+/home/robin/CLionProjects/IOptimizer/Classes/Database.h
+
+/home/robin/CLionProjects/IOptimizer/Classes/Database.h
+bits/stdc++.h
+-
+ProductIN.h
+/home/robin/CLionProjects/IOptimizer/Classes/ProductIN.h
+ProductOUT.h
+/home/robin/CLionProjects/IOptimizer/Classes/ProductOUT.h
+
+/home/robin/CLionProjects/IOptimizer/Classes/ProductIN.h
+bits/stdc++.h
+-
+
+/home/robin/CLionProjects/IOptimizer/Classes/ProductOUT.h
+bits/stdc++.h
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/IOptimizer.dir/main.cpp.o CMakeFiles/IOptimizer.dir/Classes/User.cpp.o CMakeFiles/IOptimizer.dir/Classes/Database.cpp.o CMakeFiles/IOptimizer.dir/Classes/ProductIN.cpp.o CMakeFiles/IOptimizer.dir/Classes/ProductOUT.cpp.o  -o IOptimizer 
